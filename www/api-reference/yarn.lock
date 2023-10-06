@@ -7168,14 +7168,14 @@ __metadata:
   linkType: hard
 
 "swr@npm:^2.2.0":
-  version: 2.2.1
-  resolution: "swr@npm:2.2.1"
+  version: 2.2.4
+  resolution: "swr@npm:2.2.4"
   dependencies:
     client-only: ^0.0.1
     use-sync-external-store: ^1.2.0
   peerDependencies:
     react: ^16.11.0 || ^17.0.0 || ^18.0.0
-  checksum: 723f8bb70ad5224d900af93e00cbc1a8057c97d16c0a19fc1adab364e2552cc6217838d423919ff371888ffe1bedaf4f26a9b0df95b1f400889ec028bdb3782b
+  checksum: ad7d3205f2b4969f6727b25819f2f999af792083b63a25c54fae10bc841c94827fb06652764ef94fa7a46cf9dda25a41f088809919d070dd0fec5b0005a3e839
   languageName: node
   linkType: hard
 
