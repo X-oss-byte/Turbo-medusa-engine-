@@ -41788,8 +41788,8 @@ __metadata:
   linkType: hard
 
 "tsc-alias@npm:^1.8.6":
-  version: 1.8.6
-  resolution: "tsc-alias@npm:1.8.6"
+  version: 1.8.8
+  resolution: "tsc-alias@npm:1.8.8"
   dependencies:
     chokidar: ^3.5.3
     commander: ^9.0.0
@@ -41799,7 +41799,7 @@ __metadata:
     plimit-lit: ^1.2.6
   bin:
     tsc-alias: dist/bin/index.js
-  checksum: 0af7162780e7c5d017697b31f59c3f71f3be2b2e313048b0a9fc5fec96e7ba98286b33c9a8275aaf285631559ff18eeffd36422ef863802de784d25e09f1a989
+  checksum: 02d0e3309f5b4d5c2dfc09ddb1192faa75108025e37d51f85dd7cfaab1ebe69cd50a6ed17d2e5d692ddc406455c1b17dfc056ca6ac56f587cba7b63993de251c
   languageName: node
   linkType: hard
 
