@@ -6515,15 +6515,15 @@ __metadata:
   linkType: hard
 
 "react-tooltip@npm:^5.19.0":
-  version: 5.20.0
-  resolution: "react-tooltip@npm:5.20.0"
+  version: 5.25.0
+  resolution: "react-tooltip@npm:5.25.0"
   dependencies:
     "@floating-ui/dom": ^1.0.0
     classnames: ^2.3.0
   peerDependencies:
     react: ">=16.14.0"
     react-dom: ">=16.14.0"
-  checksum: 746164e6ebd10fec1b0f3b27c3ef2db8c1580ec7740ce70ce8bef716a751da29ea61c9673d19df6c8d4d462c25b08a766789e63c3c39ecdb80f2758da0278b9e
+  checksum: bd7fd5c31e8482131f0b9887cb85a9744a7ecc312b6a123f27a60f8da7d8f37df43565be0ca7c390d7e2612a17644cc0fdffa9cc4c41e00b37763b3e99391ebb
   languageName: node
   linkType: hard
 
