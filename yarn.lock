@@ -6135,7 +6135,7 @@ __metadata:
     react-dom: ^18.2.0
     react-helmet-async: ^1.3.0
     react-highlight-words: ^0.18.0
-    react-hook-form: 7.38.0
+    react-hook-form: 7.49.2
     react-hot-toast: 2.4.0
     react-hotkeys-hook: ^3.4.7
     react-json-tree: ^0.17.0
@@ -37066,12 +37066,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-hook-form@npm:7.38.0":
-  version: 7.38.0
-  resolution: "react-hook-form@npm:7.38.0"
+"react-hook-form@npm:7.49.2":
+  version: 7.49.2
+  resolution: "react-hook-form@npm:7.49.2"
   peerDependencies:
     react: ^16.8.0 || ^17 || ^18
-  checksum: 466d334ece1a12f4544b14c2f9eb629e2015987774edd3e6d6a20ed5410595315a44b9c87bfd83b3aaec7c0d9fccec425f8fa93834866f33c1616a74a2e10ac0
+  checksum: 8e2d3209d49a816f08e61a3b1847e9edff5ecb6e5b3cd056780c2331f8bb32aa0b7a2542bece602b415ddd4009023c5d054a27a021dc5014672623d5990853c8
   languageName: node
   linkType: hard
 
