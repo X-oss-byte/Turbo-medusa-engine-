@@ -20837,13 +20837,11 @@ __metadata:
   linkType: hard
 
 "emoji-picker-react@npm:^4.4.3":
-  version: 4.4.9
-  resolution: "emoji-picker-react@npm:4.4.9"
-  dependencies:
-    clsx: ^1.2.1
+  version: 4.6.0
+  resolution: "emoji-picker-react@npm:4.6.0"
   peerDependencies:
     react: ">=16"
-  checksum: 79d4ecef83ff0b0a46879069c0d96a34e1fe07d8fc4e4c48d40218c90a770f11465f5049b4e9486cbf7744f44b1bb3978c31b2c48090fe443b8b792e0a508be4
+  checksum: cd1e351c32c6fbfef343c6f0332dc917c319208560d954dbda1ca1418c5e8242e18814dadc74081310b869668cffbc14e4d4071411ff96c8b77790e045c26bd4
   languageName: node
   linkType: hard
 
