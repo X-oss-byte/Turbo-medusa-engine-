@@ -6549,7 +6549,7 @@ __metadata:
     "@types/fs-extra": ^9.0.12
     "@types/jest": 27.5.0
     "@types/node": 18.11.9
-    "@types/node-fetch": 2.6.2
+    "@types/node-fetch": 2.6.11
     "@types/pascalcase": ^1.0.1
     "@types/qs": 6.9.7
     abort-controller: 3.0.0
@@ -6561,7 +6561,7 @@ __metadata:
     handlebars: ^4.7.7
     jest: ^25.5.4
     json-schema-ref-parser: ^9.0.9
-    node-fetch: 2.6.7
+    node-fetch: 2.7.0
     pascalcase: ^2.0.0
     qs: 6.10.3
     rollup: 3.9.1
@@ -13684,13 +13684,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node-fetch@npm:2.6.2":
-  version: 2.6.2
-  resolution: "@types/node-fetch@npm:2.6.2"
+"@types/node-fetch@npm:2.6.11":
+  version: 2.6.11
+  resolution: "@types/node-fetch@npm:2.6.11"
   dependencies:
     "@types/node": "*"
-    form-data: ^3.0.0
-  checksum: bd2ce7621905f9d80cd2fbe003d32a8d304f4aa53c12eb01a498255a1fc570d82216cff9a7ed38ff32570c78e46c924a8e23187a011ecfcfec4c530c7bdecdbb
+    form-data: ^4.0.0
+  checksum: 5283d4e0bcc37a5b6d8e629aee880a4ffcfb33e089f4b903b2981b19c623972d1e64af7c3f9540ab990f0f5c89b9b5dda19c5bcb37a8e177079e93683bfd2f49
   languageName: node
   linkType: hard
 
@@ -33088,9 +33088,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"node-fetch@npm:2.6.7":
-  version: 2.6.7
-  resolution: "node-fetch@npm:2.6.7"
+"node-fetch@npm:2.7.0":
+  version: 2.7.0
+  resolution: "node-fetch@npm:2.7.0"
   dependencies:
     whatwg-url: ^5.0.0
   peerDependencies:
@@ -33098,7 +33098,7 @@ __metadata:
   peerDependenciesMeta:
     encoding:
       optional: true
-  checksum: fcae80f5ac52fbf5012f5e19df2bd3915e67d3b3ad51cb5942943df2238d32ba15890fecabd0e166876a9f98a581ab50f3f10eb942b09405c49ef8da36b826c7
+  checksum: b55786b6028208e6fbe594ccccc213cab67a72899c9234eb59dba51062a299ea853210fcf526998eaa2867b0963ad72338824450905679ff0fa304b8c5093ae8
   languageName: node
   linkType: hard
 
