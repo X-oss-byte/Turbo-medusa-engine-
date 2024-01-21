@@ -31623,7 +31623,7 @@ __metadata:
     cross-env: ^5.2.1
     jest: ^25.5.4
     lodash: ^4.17.21
-    meilisearch: ^0.32.3
+    meilisearch: ^0.37.0
     rimraf: ^5.0.1
     typescript: ^4.9.5
   peerDependencies:
@@ -31911,12 +31911,12 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"meilisearch@npm:^0.32.3":
-  version: 0.32.5
-  resolution: "meilisearch@npm:0.32.5"
+"meilisearch@npm:^0.37.0":
+  version: 0.37.0
+  resolution: "meilisearch@npm:0.37.0"
   dependencies:
     cross-fetch: ^3.1.6
-  checksum: bf4ced846a9124802217598b374087b2993125b5c37fa7dd67422e578f63d175e20779f726d8c13759b4b63fdd12550b502c88e4736442e316e1b3ac612e09f8
+  checksum: e9899adccdf57d3b496189e8aa0a7ad9c805f84fb10473273f91746be58424216aebec58cd51f4bec2201f0ec3a1451766a3f838b9c3567ceeb927b1cdef65f7
   languageName: node
   linkType: hard
 

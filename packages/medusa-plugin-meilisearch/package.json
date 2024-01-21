@@ -23,7 +23,7 @@
     "@medusajs/utils": "^1.9.4",
     "body-parser": "^1.19.0",
     "lodash": "^4.17.21",
-    "meilisearch": "^0.32.3"
+    "meilisearch": "^0.37.0"
   },
   "peerDependencies": {
     "@medusajs/medusa": "^1.12.0"
