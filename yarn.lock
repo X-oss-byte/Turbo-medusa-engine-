@@ -7905,7 +7905,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@popperjs/core@npm:^2.9.2":
+"@popperjs/core@npm:^2.11.8, @popperjs/core@npm:^2.9.2":
   version: 2.11.8
   resolution: "@popperjs/core@npm:2.11.8"
   checksum: 4681e682abc006d25eb380d0cf3efc7557043f53b6aea7a5057d0d1e7df849a00e281cd8ea79c902a35a414d7919621fc2ba293ecec05f413598e0b23d5a1e63
@@ -13864,14 +13864,14 @@ __metadata:
   linkType: hard
 
 "@types/react-datepicker@npm:^4.10.0":
-  version: 4.11.2
-  resolution: "@types/react-datepicker@npm:4.11.2"
+  version: 4.19.6
+  resolution: "@types/react-datepicker@npm:4.19.6"
   dependencies:
     "@popperjs/core": ^2.9.2
     "@types/react": "*"
     date-fns: ^2.0.1
     react-popper: ^2.2.5
-  checksum: b0af7297b4044043008bd483cd601890ec7f62c2052c0cd65b6ce373a11cffb1103ce237ece502b8a9d4ff8e003db230dccb117125055661ee1ab63baeb124f7
+  checksum: bd3f8266fb8b2f03e361857bc17c789083791ee4c79a812476d0f021d3551236d6581d48b9acd0063571835537eb3465f4029728446dd0b98ff7c1ad4395b628
   languageName: node
   linkType: hard
 
@@ -19770,7 +19770,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"date-fns@npm:^2.0.1, date-fns@npm:^2.24.0, date-fns@npm:^2.25.0, date-fns@npm:^2.29.3, date-fns@npm:^2.30.0":
+"date-fns@npm:^2.0.1, date-fns@npm:^2.25.0, date-fns@npm:^2.29.3, date-fns@npm:^2.30.0":
   version: 2.30.0
   resolution: "date-fns@npm:2.30.0"
   dependencies:
@@ -36838,19 +36838,19 @@ __metadata:
   linkType: hard
 
 "react-datepicker@npm:^4.8.0":
-  version: 4.15.0
-  resolution: "react-datepicker@npm:4.15.0"
+  version: 4.25.0
+  resolution: "react-datepicker@npm:4.25.0"
   dependencies:
-    "@popperjs/core": ^2.9.2
+    "@popperjs/core": ^2.11.8
     classnames: ^2.2.6
-    date-fns: ^2.24.0
+    date-fns: ^2.30.0
     prop-types: ^15.7.2
-    react-onclickoutside: ^6.12.2
+    react-onclickoutside: ^6.13.0
     react-popper: ^2.3.0
   peerDependencies:
     react: ^16.9.0 || ^17 || ^18
     react-dom: ^16.9.0 || ^17 || ^18
-  checksum: 1de0bff5d1ba0352897a071babb09ee9f3b499db336e3a8e810ac838a3131fec43edc9b12c45083c2e2db3ccd33cc25597a71dc39c68cd59e5c336695d427800
+  checksum: 714fc6cffdf9fa76d1a74581375acb4c86ac81e6c2cde372448ab447370b7e9ffb1840cf388020485028e7b0f43edf82c1cfd2dab7d2c6b964cdd6f4dd560e92
   languageName: node
   linkType: hard
 
@@ -37199,7 +37199,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-onclickoutside@npm:^6.12.2":
+"react-onclickoutside@npm:^6.13.0":
   version: 6.13.0
   resolution: "react-onclickoutside@npm:6.13.0"
   peerDependencies:
