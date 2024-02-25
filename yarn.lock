@@ -20837,13 +20837,13 @@ __metadata:
   linkType: hard
 
 "emoji-picker-react@npm:^4.4.3":
-  version: 4.4.9
-  resolution: "emoji-picker-react@npm:4.4.9"
+  version: 4.8.0
+  resolution: "emoji-picker-react@npm:4.8.0"
   dependencies:
-    clsx: ^1.2.1
+    flairup: 0.0.38
   peerDependencies:
     react: ">=16"
-  checksum: 79d4ecef83ff0b0a46879069c0d96a34e1fe07d8fc4e4c48d40218c90a770f11465f5049b4e9486cbf7744f44b1bb3978c31b2c48090fe443b8b792e0a508be4
+  checksum: f1df59d8bd511bfb8925d21057e4e6c6e57382ae2b624e8403e5613a33ad2d58f2364218f673c2de84931736892d5daa34d1d00e9febf9b6000c92fbcb4b848a
   languageName: node
   linkType: hard
 
@@ -23069,6 +23069,13 @@ __metadata:
   dependencies:
     micromatch: ^4.0.2
   checksum: b0d3843013fbdaf4e57140e0165889d09fa61745c9e85da2af86e54974f4cc9f1967e40f0d8fc36a79d53091f0829c651d06607d552582e53976f3cd8f4e5689
+  languageName: node
+  linkType: hard
+
+"flairup@npm:0.0.38":
+  version: 0.0.38
+  resolution: "flairup@npm:0.0.38"
+  checksum: 3b293a4ec394b76fe21461c5c9a8b258f169f0ce2424798ed31cf0cee7b7825bff7263e6578880cca37d4430b3cc17e93e6adb7ded0de493950f3f581da2f5d0
   languageName: node
   linkType: hard
 
