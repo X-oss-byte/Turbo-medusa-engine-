@@ -2356,19 +2356,29 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@floating-ui/core@npm:^1.2.6":
-  version: 1.2.6
-  resolution: "@floating-ui/core@npm:1.2.6"
-  checksum: dc2628d13502ec8fb3fd77de21139c2dd484f4c988263e2c1adea20ea932e268bf4aae3731c202748509824c5dc5a32b397b93cce3b40ef2cfacd095d2f2bb23
+"@floating-ui/core@npm:^1.0.0":
+  version: 1.6.0
+  resolution: "@floating-ui/core@npm:1.6.0"
+  dependencies:
+    "@floating-ui/utils": ^0.2.1
+  checksum: 667a68036f7dd5ed19442c7792a6002ca02d1799221c4396691bbe0b6008b48f6ccad581225e81fa266bb91232f6c66838a5f825f554217e1ec886178b93381b
   languageName: node
   linkType: hard
 
-"@floating-ui/dom@npm:^1.0.4":
-  version: 1.2.6
-  resolution: "@floating-ui/dom@npm:1.2.6"
+"@floating-ui/dom@npm:^1.6.1":
+  version: 1.6.3
+  resolution: "@floating-ui/dom@npm:1.6.3"
   dependencies:
-    "@floating-ui/core": ^1.2.6
-  checksum: aec053280000e55cbef5d47918fa50dae174ad32b8f01333ee39e5a7052946b73e6db1832d436c58df2c739a529e5eec65899775b4787cc7fc99c2c7f857f4a1
+    "@floating-ui/core": ^1.0.0
+    "@floating-ui/utils": ^0.2.0
+  checksum: d6cac10877918ce5a8d1a24b21738d2eb130a0191043d7c0dd43bccac507844d3b4dc5d4107d3891d82f6007945ca8fb4207a1252506e91c37e211f0f73cf77e
+  languageName: node
+  linkType: hard
+
+"@floating-ui/utils@npm:^0.2.0, @floating-ui/utils@npm:^0.2.1":
+  version: 0.2.1
+  resolution: "@floating-ui/utils@npm:0.2.1"
+  checksum: ee77756712cf5b000c6bacf11992ffb364f3ea2d0d51cc45197a7e646a17aeb86ea4b192c0b42f3fbb29487aee918a565e84f710b8c3645827767f406a6b4cc9
   languageName: node
   linkType: hard
 
@@ -4585,10 +4595,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"classnames@npm:^2.3.2":
-  version: 2.3.2
-  resolution: "classnames@npm:2.3.2"
-  checksum: cd50ead57b4f97436aaa9f9885c6926323efc7c2bea8e3d4eb10e4e972aa6a1cfca1c7a0e06f8a199ca7498d4339e30bb6002e589e61c9f21248cbf3e8b0b18d
+"classnames@npm:^2.3.0":
+  version: 2.5.1
+  resolution: "classnames@npm:2.5.1"
+  checksum: afff4f77e62cea2d79c39962980bf316bacb0d7c49e13a21adaadb9221e1c6b9d3cdb829d8bb1b23c406f4e740507f37e1dcf506f7e3b7113d17c5bab787aa69
   languageName: node
   linkType: hard
 
@@ -5478,7 +5488,7 @@ __metadata:
     react: ^17.0.1
     react-dom: ^17.0.1
     react-instantsearch: ^7.0.1
-    react-tooltip: 5.7.4
+    react-tooltip: 5.26.3
     react-transition-group: ^4.4.5
     react-uuid: ^2.0.0
     tailwindcss: ^3.3.2
@@ -10459,16 +10469,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-tooltip@npm:5.7.4":
-  version: 5.7.4
-  resolution: "react-tooltip@npm:5.7.4"
+"react-tooltip@npm:5.26.3":
+  version: 5.26.3
+  resolution: "react-tooltip@npm:5.26.3"
   dependencies:
-    "@floating-ui/dom": ^1.0.4
-    classnames: ^2.3.2
+    "@floating-ui/dom": ^1.6.1
+    classnames: ^2.3.0
   peerDependencies:
     react: ">=16.14.0"
     react-dom: ">=16.14.0"
-  checksum: 36e75b9dc39d24ca55776a11c95322738dd8b016042706f9c0a34cfc27b7b1519fa91da96066525b5a15353068d6ec2ea3217d3e54311af845f05770c4bc442c
+  checksum: fcce843ebfda0a74ddaf90b7d322879c9070bd180e490ae4634ff02052b1cd39158a0af3a27621a9ffe62a1a8ad246633908a1d214998aea0403ec7aeca874fb
   languageName: node
   linkType: hard
 
