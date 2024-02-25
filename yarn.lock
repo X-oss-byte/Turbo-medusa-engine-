@@ -2941,6 +2941,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@babel/runtime@npm:^7.20.6":
+  version: 7.23.9
+  resolution: "@babel/runtime@npm:7.23.9"
+  dependencies:
+    regenerator-runtime: ^0.14.0
+  checksum: e71205fdd7082b2656512cc98e647d9ea7e222e4fe5c36e9e5adc026446fcc3ba7b3cdff8b0b694a0b78bb85db83e7b1e3d4c56ef90726682b74f13249cf952d
+  languageName: node
+  linkType: hard
+
 "@babel/template@npm:^7.12.13, @babel/template@npm:^7.12.7, @babel/template@npm:^7.16.7, @babel/template@npm:^7.22.5, @babel/template@npm:^7.3.3":
   version: 7.22.5
   resolution: "@babel/template@npm:7.22.5"
@@ -6138,7 +6147,7 @@ __metadata:
     react-hook-form: 7.38.0
     react-hot-toast: 2.4.0
     react-hotkeys-hook: ^3.4.7
-    react-json-tree: ^0.17.0
+    react-json-tree: ^0.18.0
     react-jwt: ^1.1.4
     react-nestable: ^2.0.0
     react-refresh: ^0.14.0
@@ -13605,7 +13614,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/lodash@npm:^4.14.167, @types/lodash@npm:^4.14.178, @types/lodash@npm:^4.14.182, @types/lodash@npm:^4.14.191, @types/lodash@npm:^4.14.92":
+"@types/lodash@npm:^4.14.167, @types/lodash@npm:^4.14.178, @types/lodash@npm:^4.14.191, @types/lodash@npm:^4.14.92":
   version: 4.14.195
   resolution: "@types/lodash@npm:4.14.195"
   checksum: 6d733276df592614a0943a0053056140398b3c263cdf2557d4301b3a47b07ff561926cb9339a4725acbc7d8766f91ded218df11e0a4288cee369eafb5141d94d
@@ -13833,7 +13842,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/prop-types@npm:*, @types/prop-types@npm:^15.7.5":
+"@types/prop-types@npm:*":
   version: 15.7.5
   resolution: "@types/prop-types@npm:15.7.5"
   checksum: 648aae41423821c61c83823ae36116c8d0f68258f8b609bdbc257752dcd616438d6343d554262aa9a7edaee5a19aca2e028a74fa2d0f40fffaf2816bc7056857
@@ -37133,19 +37142,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-json-tree@npm:^0.17.0":
-  version: 0.17.0
-  resolution: "react-json-tree@npm:0.17.0"
+"react-json-tree@npm:^0.18.0":
+  version: 0.18.0
+  resolution: "react-json-tree@npm:0.18.0"
   dependencies:
-    "@babel/runtime": ^7.18.3
-    "@types/lodash": ^4.14.182
-    "@types/prop-types": ^15.7.5
-    prop-types: ^15.8.1
+    "@babel/runtime": ^7.20.6
+    "@types/lodash": ^4.14.191
     react-base16-styling: ^0.9.1
   peerDependencies:
-    "@types/react": ^16.3.0 || ^17.0.0 || ^18.0.0
-    react: ^16.3.0 || ^17.0.0 || ^18.0.0
-  checksum: fa7d21689f4d41efbf7a26755113a5b294d0a37835b67c1e851d35e44e8f25412998cb6cc91db356d6ec21956ad5a03bb5786e6e9bb0ee4d9630a8cc3ed2a13d
+    "@types/react": ^16.8.0 || ^17.0.0 || ^18.0.0
+    react: ^16.8.0 || ^17.0.0 || ^18.0.0
+  checksum: 628c76339bd47dee0dbc378d57eb07051b4e2cd52f8b0794f640bed8fd33a64b2573035e298cae6ca8a8b3e969eb122fc74d2fabe738be10080f8cd5e0497589
   languageName: node
   linkType: hard
 
