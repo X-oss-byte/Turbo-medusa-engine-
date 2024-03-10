@@ -1710,21 +1710,21 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@cloudinary/transformation-builder-sdk@npm:^1.2.7":
-  version: 1.2.7
-  resolution: "@cloudinary/transformation-builder-sdk@npm:1.2.7"
+"@cloudinary/transformation-builder-sdk@npm:^1.13.0":
+  version: 1.13.1
+  resolution: "@cloudinary/transformation-builder-sdk@npm:1.13.1"
   dependencies:
     "@cloudinary/url-gen": ^1.7.0
-  checksum: 2701387ecd2fde1af9f09e3a576992de7bbae7386380d7211d6255281ce09dd09c47d3ee27ba1506173a49ec42aa88e060b35bd382663ed194428a3ba0582005
+  checksum: 3f71f7a5af5b5b5848f02e5110aba56ca5e3da4d0970cadaa20085b5750b0b1437f5c6778cedd2225a9d440b2ac5a502603dbb1d3a12c25209f8ff89c4a95a52
   languageName: node
   linkType: hard
 
 "@cloudinary/url-gen@npm:^1.7.0, @cloudinary/url-gen@npm:^1.9.2":
-  version: 1.10.0
-  resolution: "@cloudinary/url-gen@npm:1.10.0"
+  version: 1.19.0
+  resolution: "@cloudinary/url-gen@npm:1.19.0"
   dependencies:
-    "@cloudinary/transformation-builder-sdk": ^1.2.7
-  checksum: af937058947a86dbb9f1dc20c176c6fcb4a0b67c3962090b181657a7ec2a83c8e829b3930d93210d3b9b6e1f87ae6d207cd052cd7c66720405a4f9ec6c23d631
+    "@cloudinary/transformation-builder-sdk": ^1.13.0
+  checksum: bfef710f7ea7b7ebd8752cf8bae4e0f860ce9f9afb970ce5c7592b45d38f4c9543ff211752678ca034c0215c9cfa5bd8230e864d3009d61a923f39db57c770e5
   languageName: node
   linkType: hard
 
