@@ -13758,11 +13758,11 @@ __metadata:
   linkType: hard
 
 "@types/papaparse@npm:^5.3.7":
-  version: 5.3.7
-  resolution: "@types/papaparse@npm:5.3.7"
+  version: 5.5.2
+  resolution: "@types/papaparse@npm:5.5.2"
   dependencies:
     "@types/node": "*"
-  checksum: fd234e7872aa7ed86c539583e7b4bac387f3efe55c5f403c590712e7125dfe73f7f0a84e646d5d222bf7e36b4c6213a85a0ae4406db9006a5b9a1b6bc03b6e50
+  checksum: 27b097b6f8f204b20ade1f2cbf4798eb38caa5fbfa3180fd0faa5e3f9aea371c1786ae180d56f3287556463eefe3100c953e316ea6ee99d7ae1d04111cfc9e50
   languageName: node
   linkType: hard
 
