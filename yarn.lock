@@ -24264,6 +24264,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"get-tsconfig@npm:^4.10.0":
+  version: 4.14.0
+  resolution: "get-tsconfig@npm:4.14.0"
+  dependencies:
+    resolve-pkg-maps: ^1.0.0
+  checksum: abc2b9275468eb589079a0b7a95eb5107c14fdd0ca6dda1bff116fe774ea1f79975421dcb22a0c86b4f820fcc69a7655dddf9b6d6a8a2c06fcb59e19794c0724
+  languageName: node
+  linkType: hard
+
 "get-value@npm:^2.0.3, get-value@npm:^2.0.6":
   version: 2.0.6
   resolution: "get-value@npm:2.0.6"
@@ -38160,6 +38169,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"resolve-pkg-maps@npm:^1.0.0":
+  version: 1.0.0
+  resolution: "resolve-pkg-maps@npm:1.0.0"
+  checksum: fb8f7bbe2ca281a73b7ef423a1cbc786fb244bd7a95cbe5c3fba25b27d327150beca8ba02f622baea65919a57e061eb5005204daa5f93ed590d9b77463a567ab
+  languageName: node
+  linkType: hard
+
 "resolve-url@npm:^0.2.1":
   version: 0.2.1
   resolution: "resolve-url@npm:0.2.1"
@@ -41788,18 +41804,19 @@ __metadata:
   linkType: hard
 
 "tsc-alias@npm:^1.8.6":
-  version: 1.8.6
-  resolution: "tsc-alias@npm:1.8.6"
+  version: 1.8.17
+  resolution: "tsc-alias@npm:1.8.17"
   dependencies:
     chokidar: ^3.5.3
     commander: ^9.0.0
+    get-tsconfig: ^4.10.0
     globby: ^11.0.4
     mylas: ^2.1.9
     normalize-path: ^3.0.0
     plimit-lit: ^1.2.6
   bin:
     tsc-alias: dist/bin/index.js
-  checksum: 0af7162780e7c5d017697b31f59c3f71f3be2b2e313048b0a9fc5fec96e7ba98286b33c9a8275aaf285631559ff18eeffd36422ef863802de784d25e09f1a989
+  checksum: 024301d25e48917da2b11bd92683fdf62c9c9603eb711937f0aa8e24df0d988290a4f5e94ac91b77601ea36335bf4ab5637944c47755df82a2a0cf95720d5c0f
   languageName: node
   linkType: hard
 
