@@ -19210,7 +19210,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"cross-fetch@npm:^3.1.5, cross-fetch@npm:^3.1.6":
+"cross-fetch@npm:^3.1.5":
   version: 3.1.8
   resolution: "cross-fetch@npm:3.1.8"
   dependencies:
@@ -31623,7 +31623,7 @@ __metadata:
     cross-env: ^5.2.1
     jest: ^25.5.4
     lodash: ^4.17.21
-    meilisearch: ^0.32.3
+    meilisearch: ^0.60.0
     rimraf: ^5.0.1
     typescript: ^4.9.5
   peerDependencies:
@@ -31911,12 +31911,10 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"meilisearch@npm:^0.32.3":
-  version: 0.32.5
-  resolution: "meilisearch@npm:0.32.5"
-  dependencies:
-    cross-fetch: ^3.1.6
-  checksum: bf4ced846a9124802217598b374087b2993125b5c37fa7dd67422e578f63d175e20779f726d8c13759b4b63fdd12550b502c88e4736442e316e1b3ac612e09f8
+"meilisearch@npm:^0.60.0":
+  version: 0.60.0
+  resolution: "meilisearch@npm:0.60.0"
+  checksum: af9f3085844555fa61a0dfa33a25c9f662f164fc94ae5503be222358997c191fc81d275f3446bdf8fd9512438c9faee2e3d2775e1c1c4ea1f408eec5b1110986
   languageName: node
   linkType: hard
 
