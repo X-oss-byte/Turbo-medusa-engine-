@@ -18970,9 +18970,9 @@ __metadata:
   linkType: hard
 
 "core-js@npm:^3.0.4, core-js@npm:^3.22.3, core-js@npm:^3.30.2, core-js@npm:^3.6.5, core-js@npm:^3.7.0, core-js@npm:^3.8.2":
-  version: 3.31.0
-  resolution: "core-js@npm:3.31.0"
-  checksum: 6216c7ada80b2468b1297d844fa99a99da97d6156cb05270b3627d8c463fb8c17baeff74ef204ef1c905712930fe82740ba2a74e2f957e4909fd241416fe5735
+  version: 3.50.0
+  resolution: "core-js@npm:3.50.0"
+  checksum: 1bfcfb1dbdf45b0b1428a9fdcb03697d1fc52c7e9bc336f804a86ff2c2705a301dca7d9d6636d09d49d60298183273b9321681baeaf330c78db5393bc73f3f6a
   languageName: node
   linkType: hard
 
