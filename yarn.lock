@@ -6396,7 +6396,7 @@ __metadata:
     ts-jest: ^27.1.5
     tsup: 6.7.0
     typescript: ^4.9.5
-    uuid: ^9.0.0
+    uuid: ^11.0.0
   peerDependencies:
     "@medusajs/medusa": ^1.12.0
   languageName: unknown
@@ -6424,7 +6424,7 @@ __metadata:
     ts-jest: ^29.1.0
     ts-node: ^10.9.1
     typescript: 4.9.5
-    uuid: ^9.0.0
+    uuid: ^11.0.0
   bin:
     medusa-oas: ./dist/index.js
   languageName: unknown
@@ -6497,7 +6497,7 @@ __metadata:
     typeorm: ^0.3.16
     typescript: ^4.4.4
     ulid: ^2.3.0
-    uuid: ^9.0.0
+    uuid: ^11.0.0
     winston: ^3.8.2
   peerDependencies:
     medusa-interfaces: ^1.3.7
@@ -19151,7 +19151,7 @@ __metadata:
     slugify: ^1.6.6
     ts-node: ^10.9.1
     typescript: ^5.0.4
-    uuid: ^9.0.0
+    uuid: ^11.0.0
     validator: ^13.9.0
     wait-on: ^7.0.1
     winston: ^3.9.0
@@ -31891,7 +31891,7 @@ __metadata:
     jest: ^25.5.4
     nodemon: ^2.0.20
     remove-trailing-slash: ^0.1.1
-    uuid: ^8.3.2
+    uuid: ^11.0.0
   languageName: unknown
   linkType: soft
 
@@ -43102,6 +43102,15 @@ __metadata:
   bin:
     uuid: dist/bin/uuid
   checksum: e62301a1c6102da5ce9a147b492a4b5cfa14d2e8fdf4a6ebfda7929cb72d186f84173815ec18fa4160a03bf9724b16ece3737b3ac6701815bc965f8fa4279298
+  languageName: node
+  linkType: hard
+
+"uuid@npm:^11.0.0":
+  version: 11.1.1
+  resolution: "uuid@npm:11.1.1"
+  bin:
+    uuid: dist/esm/bin/uuid
+  checksum: 9e3af58eba872ece5a5e76f4773a94fc78a0ef2c2444c38dbe6b42f41dadf76c01850fd783604f27986f6195e6286aef064d45987d401b2a33127b98ddf7c0c5
   languageName: node
   linkType: hard
 
