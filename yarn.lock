@@ -6187,7 +6187,7 @@ __metadata:
     fs-extra: 11.1.0
     lodash: ^4.17.21
     medusa-core-utils: 1.2.0
-    rollup: 3.20.7
+    rollup: 3.30.0
     rollup-plugin-esbuild: 5.0.0
     ts-dedent: ^2.2.0
     typescript: ^4.9.3
@@ -6564,7 +6564,7 @@ __metadata:
     node-fetch: 2.6.7
     pascalcase: ^2.0.0
     qs: 6.10.3
-    rollup: 3.9.1
+    rollup: 3.30.0
     rollup-plugin-terser: 7.0.2
     ts-jest: ^25.5.1
     tslib: 2.3.1
@@ -38500,9 +38500,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"rollup@npm:3.20.7":
-  version: 3.20.7
-  resolution: "rollup@npm:3.20.7"
+"rollup@npm:3.30.0":
+  version: 3.30.0
+  resolution: "rollup@npm:3.30.0"
   dependencies:
     fsevents: ~2.3.2
   dependenciesMeta:
@@ -38510,21 +38510,7 @@ __metadata:
       optional: true
   bin:
     rollup: dist/bin/rollup
-  checksum: b23eb437ee88e7a93b255b4847b4d6759f3ccd0e556466d27ee21bc4f6a468210f0d743fd2900cc4de2d5d1c81415790f2a3fba60ada9c33d94e15328af8d219
-  languageName: node
-  linkType: hard
-
-"rollup@npm:3.9.1":
-  version: 3.9.1
-  resolution: "rollup@npm:3.9.1"
-  dependencies:
-    fsevents: ~2.3.2
-  dependenciesMeta:
-    fsevents:
-      optional: true
-  bin:
-    rollup: dist/bin/rollup
-  checksum: 48875f9414b17dda1f3a8eea3a2cfffbe847451f986e0c4f6363f06cde05d508730f29486d3f25f27db28dc76bb411a23959b826b1054d3848bab0d84a471fdd
+  checksum: 38d773a81a2cde36a657fdc6f202698fe047fd65e7a08b72f0e7fa86f21e06c9a789a183dee850ed77a9e1c3cff517b960dc4a8a02c3e3f7977230480f09cc60
   languageName: node
   linkType: hard
 
