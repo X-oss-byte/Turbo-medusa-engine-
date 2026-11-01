@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@medusajs/types": "^1.11.0",
-    "@mikro-orm/core": "5.7.12",
+    "@mikro-orm/core": "6.6.10",
     "@mikro-orm/migrations": "5.7.12",
     "@mikro-orm/postgresql": "5.7.12",
     "awilix": "^8.0.1",
