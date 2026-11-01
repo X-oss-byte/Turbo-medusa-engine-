@@ -39,7 +39,7 @@
     "@medusajs/modules-sdk": "^1.10.0",
     "@medusajs/types": "^1.11.0",
     "@medusajs/utils": "^1.10.0",
-    "@mikro-orm/core": "5.7.12",
+    "@mikro-orm/core": "6.6.10",
     "@mikro-orm/postgresql": "5.7.12",
     "awilix": "^8.0.0"
   }
